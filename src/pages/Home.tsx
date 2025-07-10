@@ -1,4 +1,3 @@
-import { Link } from "react-router"
 const Home = () => {
   return (
      <div className="container">
